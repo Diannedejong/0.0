@@ -4,9 +4,9 @@
 <body>
 
 <?PHP
-echo'hello wordl';
+echo" <h1> hello word </h1> ";
 ?>
 
-<h2>wrm is het leven zo kut</h2>
+
 </body>
 </html>
